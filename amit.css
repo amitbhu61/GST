@@ -1,0 +1,103 @@
+.container-fluid.main{
+	height:110;
+	width:100%;   
+}
+.img{
+    margin-top: 24;
+
+}
+.aps{
+ padding-top:0px;
+    padding-left:1;  position:relative;
+}  
+    
+
+.img1{
+    margin-top: 10;
+    top:20px;
+}
+.p{
+    text-decoration-color: aliceblue;
+}
+.amit{
+    width:100%;
+    margin-left:-5;
+    margin-top:5;
+}
+.col-xs{
+    margin-right:10;
+}
+.container{
+    width:100%;
+}
+.navbar{
+  padding:0.5rem 1rem; 
+}
+.navbar-nav li{
+    padding:0 30px;
+    
+}
+.dropdwon:hover>.dropdwon-menu{
+    display: block;
+}
+.navbar-nav li a{
+    color: #fff !important;
+    font-weight: 600;
+}
+.dropmanu .nav-item{
+    margin:200px;
+}
+.body{
+    margin-top:20px;
+}
+.container-fluid.amit2{
+    margin-top: 20;
+    border: 2px solid gray;
+}
+
+.slide{
+    margin:1px;
+}
+.carousel-item img{
+    height:400px;
+    width:700px;
+}
+.carousel-control-next-icon{
+    height:30px;
+    width:30px;
+}
+.carousel-control-prev-icon{
+    height:30px;
+    width:30px;
+}
+.amt{
+    margin-top: -70;
+}
+.amt2{
+    margin-top:-10;
+}
+.jumbotron{
+    height: 300;
+}
+.main2{
+    margin-top:10px;
+    
+}
+.container.main3{
+    top:1470px;
+    margin-left: 60px;
+    padding-top: 40px;
+    padding-bottom: 40px;
+    width: 80%;
+    position: absolute;
+    
+}
+.container-fluid.main4{
+    width: 100%;
+   margin-top: 100px;
+
+   
+}
+.container.main5{
+    padding-top: 130px;
+}
